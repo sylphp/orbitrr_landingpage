@@ -1,0 +1,500 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 555px;
+		padding-bottom: 12px;
+		max-width: 1200px;
+	}
+
+	#pu105
+	{
+		padding-bottom: 62px;
+		width: 100%;
+	}
+
+	#u105
+	{
+		z-index: 21;
+		height: 62px;
+		position: fixed;
+		top: 0px;
+	}
+
+	#u105-bw
+	{
+		z-index: 21;
+	}
+
+	#menuu106
+	{
+		z-index: 22;
+		width: 1200px;
+		position: fixed;
+		top: 0px;
+		left: 50%;
+		margin-left: -600px;
+	}
+
+	#u128
+	{
+		width: 281px;
+		min-height: 62px;
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u129
+	{
+		width: 281px;
+		padding-bottom: 42px;
+		position: relative;
+	}
+
+	#u129:hover
+	{
+		width: 281px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u129.MuseMenuActive
+	{
+		width: 281px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u130-4
+	{
+		width: 73px;
+		min-height: 20px;
+		position: relative;
+		margin-right: -10000px;
+		top: 21px;
+		left: 104px;
+	}
+
+	#u129:hover #u130-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 73px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#u129.MuseMenuActive #u130-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 73px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#u121
+	{
+		width: 289px;
+		min-height: 62px;
+		position: relative;
+		margin-right: -10000px;
+		left: 283px;
+	}
+
+	#u124
+	{
+		width: 289px;
+		padding-bottom: 42px;
+		position: relative;
+	}
+
+	#u124:hover
+	{
+		width: 289px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u124.MuseMenuActive
+	{
+		width: 289px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u125-4
+	{
+		width: 81px;
+		min-height: 20px;
+		position: relative;
+		margin-right: -10000px;
+		top: 21px;
+		left: 104px;
+	}
+
+	#u124:hover #u125-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 81px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#u124.MuseMenuActive #u125-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 81px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#u114
+	{
+		width: 290px;
+		min-height: 62px;
+		position: relative;
+		margin-right: -10000px;
+		left: 574px;
+	}
+
+	#u115
+	{
+		width: 290px;
+		padding-bottom: 42px;
+		position: relative;
+	}
+
+	#u115:hover
+	{
+		width: 290px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u115.MuseMenuActive
+	{
+		width: 290px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u116-4
+	{
+		width: 82px;
+		min-height: 20px;
+		position: relative;
+		margin-right: -10000px;
+		top: 21px;
+		left: 104px;
+	}
+
+	#u115:hover #u116-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 82px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#u115.MuseMenuActive #u116-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 82px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#u107
+	{
+		width: 334px;
+		min-height: 62px;
+		position: relative;
+		margin-right: -10000px;
+		left: 866px;
+	}
+
+	#u108
+	{
+		width: 334px;
+		padding-bottom: 42px;
+		position: relative;
+	}
+
+	#u108:hover
+	{
+		width: 334px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u108.MuseMenuActive
+	{
+		width: 334px;
+		min-height: 0px;
+		margin: 0px;
+	}
+
+	#u111-4
+	{
+		width: 127px;
+		min-height: 20px;
+		position: relative;
+		margin-right: -10000px;
+		top: 21px;
+		left: 103px;
+	}
+
+	#u108:hover #u111-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 127px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#u108.MuseMenuActive #u111-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 20px;
+		width: 127px;
+		margin: 0px -10000px 0px 0px;
+	}
+
+	#pu1804
+	{
+		margin-top: 70px;
+		width: 100%;
+	}
+
+	#u1804
+	{
+		min-height: 256px;
+		padding-bottom: 24px;
+	}
+
+	#u1804_align_to_page
+	{
+		max-width: 1200px;
+	}
+
+	#buttonu1805
+	{
+		width: 286px;
+		padding-bottom: 8px;
+		margin-right: -10000px;
+		margin-top: 215px;
+		left: -143px;
+	}
+
+	#buttonu1805:hover
+	{
+		margin-right: -10000px;
+		margin-top: 215px;
+		width: 286px;
+		left: -143px;
+	}
+
+	#buttonu1805:active
+	{
+		margin-right: -10000px;
+		margin-top: 215px;
+		width: 286px;
+		left: -143px;
+	}
+
+	#u1806-4
+	{
+		width: 255px;
+		min-height: 25px;
+		line-height: 24px;
+		font-size: 20px;
+		margin-top: 8px;
+		left: 5.6%;
+	}
+
+	#buttonu1805:hover #u1806-4
+	{
+		margin-top: 8px;
+		min-height: 25px;
+		width: 255px;
+	}
+
+	#buttonu1805:active #u1806-4
+	{
+		margin-top: 8px;
+		min-height: 25px;
+		width: 255px;
+	}
+
+	#buttonu1805.ButtonSelected #u1806-4
+	{
+		margin-top: 8px;
+		min-height: 25px;
+		width: 255px;
+	}
+
+	#u1804-bw
+	{
+		min-height: 256px;
+	}
+
+	#u1807-12
+	{
+		z-index: 8;
+		min-height: 149px;
+		background-color: transparent;
+		font-weight: 700;
+	}
+
+	#u1807-2
+	{
+		font-size: 22px;
+		text-transform: none;
+		line-height: 26px;
+		color: #000000;
+		font-family: droid-serif, serif;
+	}
+
+	#u1807-3
+	{
+		font-size: 18px;
+		text-transform: none;
+		line-height: 22px;
+		color: #000000;
+		font-family: droid-serif, serif;
+	}
+
+	#u1807-8
+	{
+		font-size: 16px;
+		line-height: 19px;
+		color: #000000;
+		font-family: droid-serif, serif;
+	}
+
+	#u1807-5,#u1807-7,#u1807-10
+	{
+		font-size: 16px;
+		text-transform: none;
+		line-height: 19px;
+		color: #000000;
+		font-family: droid-serif, serif;
+	}
+
+	#u1807-12-bw
+	{
+		z-index: 8;
+		min-height: 149px;
+		margin-top: 43px;
+	}
+
+	#u1859,#u1859-bw
+	{
+		z-index: 20;
+		height: 124px;
+	}
+
+	#u98
+	{
+		z-index: 51;
+		min-height: 143px;
+		padding-bottom: 12px;
+	}
+
+	#u99
+	{
+		z-index: 52;
+		margin-top: 68px;
+		width: 15.92%;
+		left: 25.42%;
+	}
+
+	#u101
+	{
+		z-index: 54;
+		margin-top: 55px;
+		width: 10.42%;
+		left: 61.42%;
+	}
+
+	#u98-bw
+	{
+		z-index: 51;
+		min-height: 143px;
+	}
+
+	#u103-4
+	{
+		z-index: 56;
+		min-height: 34px;
+	}
+
+	#u103-4-bw
+	{
+		z-index: 56;
+		min-height: 34px;
+		margin-top: 15px;
+	}
+
+	#pu94
+	{
+		margin-top: 10px;
+	}
+
+	#u94
+	{
+		z-index: 47;
+		width: 3.09%;
+		left: 32.17%;
+	}
+
+	#u135-4
+	{
+		z-index: 60;
+		min-height: 16px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 10px;
+		width: 15.42%;
+		left: 35.75%;
+	}
+
+	#u96
+	{
+		z-index: 49;
+		width: 3.09%;
+		left: 54.17%;
+	}
+
+	#u136-4
+	{
+		z-index: 64;
+		min-height: 16px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 10px;
+		width: 15.42%;
+		left: 58.34%;
+	}
+
+	.html
+	{
+		background-image: url("../images/stary%20sky.jpg");
+	}
+
+
